@@ -61,3 +61,11 @@ main {
     padding: 34px;
 }
 
+.site-footer a {
+    color: white;
+
+}
+
+.site-footer .right {
+    text-align: right;
+}

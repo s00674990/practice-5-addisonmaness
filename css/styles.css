@@ -1,3 +1,14 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+
+}
+
 body {
-    background-color: green;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+h1, h2, h3 {
+    font-family: "DM Serif Display", serif;
 }
